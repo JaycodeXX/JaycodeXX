@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jay CodeXX</h1>
-<h3 align="center">Emerging Full-stack Developer / Software Engr. Student of @debthebuilder / ALX</h3>
+<h3 align="center">Emerging Frontend Developer. Student of @debthebuilder and ALX</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaycodexx&label=Profile%20views&color=0e75b6&style=flat" alt="jaycodexx" /> </p>
 
 <p align="left"> <a href="https://twitter.com/jay_codexx" target="blank"><img src="https://img.shields.io/twitter/follow/jay_codexx?logo=twitter&style=for-the-badge" alt="jay_codexx" /></a> </p>
 
-- 🌱 I’m currently learning **Full-stack Development and Software Development**
+- 🌱 I’m currently learning **Frontend Development and Software Development @ALX**
 
 - 📝 I regularly write articles on [https://supajams.com/](https://supajams.com/)
 
